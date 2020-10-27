@@ -28,7 +28,8 @@ input, textarea, select{
     font-family: 'Montserrat', sans-serif;
 }
 .section{
-    background-color: #13131f;
+    background-color: #c2948b;
+    color : #009933;
     min-height: 100vh;
     display:block;
     padding: 0 30px;
